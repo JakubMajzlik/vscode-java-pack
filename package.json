@@ -1,0 +1,29 @@
+{
+    "name": "java-pack",
+    "displayName": "Java Pack",
+    "description": "Usefull extensions for java dev",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "GabrielBB.vscode-lombok", 
+        "ithildir.java-properties", 
+        "Pivotal.vscode-boot-dev-pack", 
+        "Pivotal.vscode-spring-boot", 
+        "redhat.java", 
+        "shengchen.vscode-checkstyle", 
+        "SonarSource.sonarlint-vscode", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscjava.vscode-java-debug", 
+        "vscjava.vscode-java-dependency", 
+        "vscjava.vscode-java-pack", 
+        "vscjava.vscode-java-test", 
+        "vscjava.vscode-maven", 
+        "vscjava.vscode-spring-boot-dashboard", 
+        "vscjava.vscode-spring-initializr"
+    ]
+}
